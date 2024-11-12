@@ -1,0 +1,7 @@
+names:
+  0: Entomobryidae
+  1: Isotomidae
+path: ../yolo_output_images\order\order_2_226\9
+test: images/test
+train: images/train
+val: images/val

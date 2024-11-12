@@ -1,0 +1,10 @@
+names:
+  0: Entomobrya
+  1: Homidia
+  2: Lepidocyrtus
+  3: Sinella
+  4: Rambutsinella
+path: ../yolo_output_images/famliy/famliy_12_100\9
+test: images/test
+train: images/train
+val: images/val

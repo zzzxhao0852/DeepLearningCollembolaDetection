@@ -1,0 +1,9 @@
+names:
+  0: Vertagopus
+  1: Semicerura
+  2: Cryptopygus
+  3: Proisotoma
+path: ../yolo_output_images/famliy/famliy_9_100\9
+test: images/test
+train: images/train
+val: images/val

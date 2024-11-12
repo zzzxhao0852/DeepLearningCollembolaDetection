@@ -1,0 +1,14 @@
+names:
+  0: Dicranocentrus
+  1: Homidia
+  2: Pseudosinella
+  3: Entomobrya
+  4: Lepidocyrtus
+  5: Coecobrya
+  6: Rambutsinella
+  7: Drepanura
+  8: Sinella
+path: ../yolo_output_images/famliy/famliy_20_100\9
+test: images/test
+train: images/train
+val: images/val

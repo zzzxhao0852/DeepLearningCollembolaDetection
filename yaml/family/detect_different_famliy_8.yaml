@@ -1,0 +1,8 @@
+names:
+  0: Lepidocyrtus
+  1: Entomobrya
+  2: Rambutsinella
+path: ../yolo_output_images/famliy/famliy_8_100\9
+test: images/test
+train: images/train
+val: images/val

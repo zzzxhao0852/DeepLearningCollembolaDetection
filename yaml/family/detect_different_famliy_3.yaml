@@ -1,0 +1,7 @@
+names:
+  0: Vitronura
+  1: Paleonura
+path: ../yolo_output_images/famliy/famliy_3_100\9
+test: images/test
+train: images/train
+val: images/val

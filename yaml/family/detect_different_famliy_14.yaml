@@ -1,0 +1,11 @@
+names:
+  0: Dicranocentrus
+  1: Drepanura
+  2: Pseudosinella
+  3: Homidia
+  4: Sinella
+  5: Coecobrya
+path: ../yolo_output_images/famliy/famliy_14_100\9
+test: images/test
+train: images/train
+val: images/val

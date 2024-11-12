@@ -1,0 +1,13 @@
+names:
+  0: Cryptopygus
+  1: Semicerura
+  2: Vertagopus
+  3: Heteroisotoma
+  4: Folsomia
+  5: Isotoma
+  6: Proisotoma
+  7: Isotomiella
+path: ../yolo_output_images/famliy/famliy_17_100\9
+test: images/test
+train: images/train
+val: images/val

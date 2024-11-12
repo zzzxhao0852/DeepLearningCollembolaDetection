@@ -1,0 +1,9 @@
+names:
+  0: Dicranocentrus
+  1: Entomobrya
+  2: Coecobrya
+  3: Sinella
+path: ../yolo_output_images/famliy/famliy_10_100\9
+test: images/test
+train: images/train
+val: images/val

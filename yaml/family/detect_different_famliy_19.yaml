@@ -1,0 +1,14 @@
+names:
+  0: Isotoma
+  1: Cryptopygus
+  2: Semicerura
+  3: Heteroisotoma
+  4: Vertagopus
+  5: Isotomiella
+  6: Proisotoma
+  7: Folsomina
+  8: Folsomides
+path: ../yolo_output_images/famliy/famliy_19_100\9
+test: images/test
+train: images/train
+val: images/val

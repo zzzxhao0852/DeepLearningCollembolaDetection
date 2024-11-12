@@ -1,0 +1,9 @@
+names:
+  0: Onychiuridae
+  1: Hypogastruridae
+  2: Katiannidae
+  3: Neanuridae
+path: ../yolo_output_images\order\order_4_226\9
+test: images/test
+train: images\train
+val: images/val

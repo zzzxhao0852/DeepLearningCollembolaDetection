@@ -1,0 +1,11 @@
+names:
+  0: Onychiuridae
+  1: Isotomidae
+  2: Entomobryidae
+  3: Neanuridae
+  4: Hypogastruridae
+  5: Katiannidae
+path: ../yolo_output_images\order\order_6_226\9
+test: images/test
+train: images/train
+val: images/val

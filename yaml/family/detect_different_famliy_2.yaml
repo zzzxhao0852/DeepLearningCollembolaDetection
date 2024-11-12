@@ -1,0 +1,7 @@
+names:
+  0: Spinonychiurus
+  1: Bionychiurus
+path: ../yolo_output_images/famliy/famliy_2_100/9
+test: images/test
+train: images/train
+val: images/val

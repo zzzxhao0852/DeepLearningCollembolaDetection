@@ -1,0 +1,56 @@
+names:
+  0: Sinella curviseta
+  1: Ceratophysella sinensis
+  2: Isotoma viridis
+  3: Lepidocyrtus fimetarius
+  4: Proisotoma fraterna
+  5: Sminthurinus cantonensis
+  6: Dicyrtomidae fusca
+  7: Entomobrya huangi
+  8: Ceratophysella yinae
+  9: Orchesellides sinensis
+  10: Sminthurinus pallescens
+  11: Ceratophysella succinea
+  12: Bionychiurus changbaiensis
+  13: Sminthurinus sp.1
+  14: Cryptopygus thermophilus
+  15: Lepidocyrtus hankowi
+  16: Isotomiella leksawasdii
+  17: Entomobrya japonica
+  18: Homidia socia
+  19: Vertagopus arborata
+  20: Drepanura sp.1
+  21: Desoria tianshanica
+  22: Dicranocentrus wangi
+  23: Entomobrya leonensis
+  24: Folsomia octoculata
+  25: Monobella grassei
+  26: Isotomurus quadrisetosus
+  27: Ceratophysella zhangi
+  28: Folsomina wuyanensis
+  29: Lepidocyrtus felipei
+  30: Arrhopalites nanjingensis
+  31: Homidia sinensis
+  32: Homidia laha
+  33: Sinella pseudobrowni
+  34: Pseudosinella caoi
+  35: Vitronura sp.1
+  36: Leeonychiurus gulinensis
+  37: Paleonura formosana
+  38: Sinella umesaoi
+  39: Semicerura sp.1
+  40: Rambutsinella grinnellia
+  41: Spinonychiurus sinensis
+  42: Pseudachorutes cheni
+  43: Isotoma gracilliseta
+  44: Coecobrya islandica
+  45: Sinella zhangi
+  46: Heteroisotoma sinorossica
+  47: Ceratophysella baichengensis
+  48: Entomobrya sp.1
+  49: Folsomides parvulus
+  50: Homidia koreana
+path: F:\StorageFile\Code\zhuangxiaohao\YoloAICollembolaPose\yolo_output_images/species\0
+test: images/test
+train: images/train
+val: images/val

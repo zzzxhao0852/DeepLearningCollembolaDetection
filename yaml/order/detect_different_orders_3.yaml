@@ -1,0 +1,8 @@
+names:
+  0: Entomobryidae
+  1: Katiannidae
+  2: Onychiuridae
+path: ../yolo_output_images\order\order_3_226\9
+test: images/test
+train: images/train
+val: images/val

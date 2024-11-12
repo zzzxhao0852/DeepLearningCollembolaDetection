@@ -1,0 +1,10 @@
+names:
+  0: Hypogastruridae
+  1: Neanuridae
+  2: Isotomidae
+  3: Onychiuridae
+  4: Katiannidae
+path: ../yolo_output_images\order\order_5_226\9
+test: images/test
+train: images/train
+val: images/val

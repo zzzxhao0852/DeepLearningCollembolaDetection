@@ -1,0 +1,7 @@
+names:
+  0: Semicerura
+  1: Folsomina
+path: ../yolo_output_images/famliy/famliy_4_100\9
+test: images/test
+train: images/train
+val: images/val

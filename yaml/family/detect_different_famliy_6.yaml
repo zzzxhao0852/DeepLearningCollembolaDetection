@@ -1,0 +1,8 @@
+names:
+  0: Vitronura
+  1: Paleonura
+  2: Pseudachorutes
+path: ../yolo_output_images/famliy/famliy_6_100\9
+test: images/test
+train: images/train
+val: images/val
